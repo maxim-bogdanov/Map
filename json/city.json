@@ -1,0 +1,41 @@
+{
+  "cities": [
+    {
+      "name": "Гатчина",
+      "coordinates": {
+        "left": 97,
+        "top": 231
+      },
+      "mod": "name_line"
+    },
+    {
+      "name": "Санкт&#8209Петербруг",
+      "coordinates": {
+        "left": 107,
+        "top": 229
+      },
+      "mod": "name_close"
+    },
+    {
+      "name": "Москва",
+      "coordinates": {
+        "left": 128,
+        "top": 300
+      }
+    },
+    {
+      "name": "Мурманск",
+      "coordinates": {
+        "left": 200,
+        "top": 190
+      }
+    },
+    {
+      "name": "Арсеньев",
+      "coordinates": {
+        "left": 738,
+        "top": 430
+      }
+    }
+  ]
+}

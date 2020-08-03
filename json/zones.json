@@ -1,0 +1,185 @@
+{
+  "zones": [
+    {
+      "name": "armalit",
+      "coordinates": [
+        {
+          "area": [
+            {
+              "left": 56,
+              "top": 336
+            },
+            {
+              "left": 158,
+              "top": 191
+            }
+          ]
+        }
+      ],
+      "pictures": [
+        {
+          "src": "../img/cities/armalit/01.png"
+        },
+        {
+          "src": "../img/cities/armalit/02.png"
+        },
+        {
+          "src": "../img/cities/armalit/03.png"
+        },
+        {
+          "src": "../img/cities/armalit/04.png"
+        },
+        {
+          "src": "../img/cities/armalit/05.png"
+        },
+        {
+          "src": "../img/cities/armalit/06.png"
+        },
+        {
+          "src": "../img/cities/armalit/07.png"
+        },
+        {
+          "src": "../img/cities/armalit/08.png"
+        },
+        {
+          "src": "../img/cities/armalit/09.png"
+        }
+      ]
+    },
+    {
+      "name": "askold",
+      "coordinates": [
+        {
+          "area": [
+            {
+              "left": 640,
+              "top": 502
+            },
+            {
+              "left": 853,
+              "top": 365
+            }
+          ]
+        },
+        {
+          "area": [
+            {
+              "left": 134,
+              "top": 255
+            },
+            {
+              "left": 241,
+              "top": 135
+            }
+          ]
+        }
+      ],
+      "pictures": [
+        {
+          "src": "../img/cities/askold/01.png"
+        },
+        {
+          "src": "../img/cities/askold/02.png"
+        },
+        {
+          "src": "../img/cities/askold/03.png"
+        },
+        {
+          "src": "../img/cities/askold/04.png"
+        },
+        {
+          "src": "../img/cities/askold/05.png"
+        },
+        {
+          "src": "../img/cities/askold/06.png"
+        },
+        {
+          "src": "../img/cities/askold/07.png"
+        },
+        {
+          "src": "../img/cities/askold/08.png"
+        },
+        {
+          "src": "../img/cities/askold/09.png"
+        },
+        {
+          "src": "../img/cities/askold/10.png"
+        }
+      ]
+    },
+    {
+      "name": "burevestnik",
+      "coordinates": [
+        {
+          "area": [
+            {
+              "left": 56,
+              "top": 336
+            },
+            {
+              "left": 158,
+              "top": 191
+            }
+          ]
+        }
+      ],
+      "pictures": [
+        {
+          "src": "../img/cities/burevestnik/01.png"
+        },
+        {
+          "src": "../img/cities/burevestnik/02.png"
+        },
+        {
+          "src": "../img/cities/burevestnik/03.png"
+        },
+        {
+          "src": "../img/cities/burevestnik/04.png"
+        },
+        {
+          "src": "../img/cities/burevestnik/05.png"
+        },
+        {
+          "src": "../img/cities/burevestnik/06.png"
+        }
+      ]
+    },
+    {
+      "name": "skbk",
+      "coordinates": [
+        {
+          "area": [
+            {
+              "left": 56,
+              "top": 336
+            },
+            {
+              "left": 158,
+              "top": 191
+            }
+          ]
+        }
+      ],
+      "pictures": [
+        {
+          "src": "../img/cities/skbk/01.png"
+        },
+        {
+          "src": "../img/cities/skbk/02.png"
+        },
+        {
+          "src": "../img/cities/skbk/03.png"
+        },
+        {
+          "src": "../img/cities/skbk/04.png"
+        },
+        {
+          "src": "../img/cities/skbk/05.png"
+        },
+        {
+          "src": "../img/cities/skbk/06.png"
+        }
+      ]
+    }
+  ]
+}
